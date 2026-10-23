@@ -1,0 +1,14 @@
+# Runtime data written by the app
+/storage/*.json
+/storage/*.log
+/storage/*.tmp
+
+# Reference material is kept locally, not redistributed
+/Bhashini_Translation_Plugin_Documentation_v2*.pdf
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
