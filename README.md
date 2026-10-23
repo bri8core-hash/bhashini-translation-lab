@@ -12,7 +12,7 @@ translation endpoint, inspect responses, and experiment with glossary overrides.
 ## Quick start
 
 1. Start **Apache** in the XAMPP control panel.
-2. Open: **<http://localhost/yack/bhashini/>**
+2. Open: **<http://localhost/bhashini/>**
 3. Click the round language button at the **bottom-right** and choose Hindi (or any enabled language).
 4. Walk through the pages in the top navigation.
 
